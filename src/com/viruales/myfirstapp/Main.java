@@ -6,6 +6,5 @@ public class Main {
 
         System.out.println("Hallo das ist der erste versuch eines outputs");
         System.out.println("Hier noch eine neue zeile");
-        System.out.println("gfjgfjhgfjhgfhjgf);
     }
 }
